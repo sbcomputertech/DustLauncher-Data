@@ -1,0 +1,12 @@
+{
+  "id": "com.reddust9.kyle",
+  "name": "kyle",
+  "author": "reddust9",
+  "access": "open",
+  "versions": [
+    { "latest": true, "id": "0.4-a", "file": "coming soon" },
+    { "latest": false, "id": "0.3-a", "file": "coming soon" },
+    { "latest": false, "id": "0.2-a", "file": "coming soon" },
+    { "latest": false, "id": "0.1-a", "file": "coming soon" }
+  ]
+}
