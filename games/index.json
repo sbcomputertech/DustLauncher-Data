@@ -1,1 +1,13 @@
-
+{
+  "games": [
+    {
+      "id": "com.reddust9.kyle",
+      "name": "Kyle",
+      "stack": ["Unity", "C#", ".NET"],
+      "author": "reddust9",
+      "platform": ["Windows", "Web"],
+      "latest-version": "0.4-b",
+      "access": "open"
+    }
+  ]
+}
