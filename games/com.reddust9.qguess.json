@@ -4,7 +4,7 @@
   "description": "todo",
   "author": "reddust9",
   "access": "open",
-  "execPath": "\\GV1\\WhoSaidIt.exe",
+  "execPath": "GV1\\WhoSaidIt.exe",
   "versions": [
     { "latest": true, "id": "1.0", "file": "https://raw.githubusercontent.com/sbcomputertech/DustLauncher-Data/main/files/GameV1.zip" }
   ]
