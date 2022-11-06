@@ -8,5 +8,13 @@
       "platform": ["Windows", "Web"],
       "access": "open"
     }
+    {
+      "id": "com.reddust9.qguess",
+      "name": "Who Said It?",
+      "stack": ["WPF", "C#", ".NET"],
+      "author": "reddust9",
+      "platform": ["Windows"],
+      "access": "restricted"
+    }
   ]
 }
