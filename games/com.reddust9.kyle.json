@@ -4,6 +4,7 @@
   "description": "todo",
   "author": "reddust9",
   "access": "open",
+  "execPath": "todo",
   "versions": [
     { "latest": true, "id": "0.4-a", "file": "coming soon" },
     { "latest": false, "id": "0.3-a", "file": "coming soon" },
