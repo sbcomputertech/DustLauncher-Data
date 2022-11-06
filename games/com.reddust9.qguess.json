@@ -1,1 +1,9 @@
-
+{
+  "id": "com.reddust9.qguess",
+  "name": "Who  Said It?",
+  "author": "reddust9",
+  "access": "restricted",
+  "versions": [
+    { "latest": true, "id": "1.0", "file": "coming soon" }
+  ]
+}
