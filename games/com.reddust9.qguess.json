@@ -3,7 +3,7 @@
   "name": "Who  Said It?",
   "description": "todo",
   "author": "reddust9",
-  "access": "restricted",
+  "access": "open",
   "versions": [
     { "latest": true, "id": "1.0", "file": "https://raw.githubusercontent.com/sbcomputertech/DustLauncher-Data/main/files/GameV1.zip" }
   ]
