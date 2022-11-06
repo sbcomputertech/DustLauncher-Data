@@ -1,7 +1,7 @@
 {
   "id": "com.reddust9.kyle",
   "name": "Kyle",
-  "description": "todo",
+  "description": "Explore the map, pick up barrels and bring them to the trains around the map, all while avoiding the evil robot Kyle who will run after you if he sees you!",
   "author": "reddust9",
   "access": "open",
   "execPath": "todo",
