@@ -5,6 +5,6 @@
   "author": "reddust9",
   "access": "restricted",
   "versions": [
-    { "latest": true, "id": "1.0", "file": "coming soon" }
+    { "latest": true, "id": "1.0", "file": "https://raw.githubusercontent.com/sbcomputertech/DustLauncher-Data/main/files/GameV1.zip" }
   ]
 }
