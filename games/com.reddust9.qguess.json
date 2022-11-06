@@ -1,7 +1,7 @@
 {
   "id": "com.reddust9.qguess",
   "name": "Who  Said It?",
-  "description": "todo",
+  "description": "A lightweight game where you get shown a quote and have to guess who said it!",
   "author": "reddust9",
   "access": "open",
   "execPath": "GV1\\WhoSaidIt.exe",
